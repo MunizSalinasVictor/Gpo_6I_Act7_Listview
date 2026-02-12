@@ -53,7 +53,7 @@ class AppContenido extends StatelessWidget {
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
               colors: [
-                Color(0xFFFF8C00),
+                Color.fromARGB(255, 249, 139, 4),
                 Color(0xFFFF4500),
               ],
             ),
